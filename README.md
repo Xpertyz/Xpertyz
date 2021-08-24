@@ -1,9 +1,12 @@
-- 👋 Hi, I’m Xpert
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on Games Development
+- 👋 Hi, I’m Xpert, i'm a Brazilian Programmer.
+i started my carrer on Roblox, i know to program in Lua, C#, C++, JavaScript, HTML and CSS.
+- 🌱 I’m currently learning more of HTML
+- 💞️ I’m looking to collaborate on Games, Aplications, Web Aplications and others.
 
-<!---
-ElExpertPlayer/ElExpertPlayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Contact
+
+| Platform | UserName |
+| --- | --- |
+| Discord | Xpert_#0137 |
+| Roblox | [El_ExpertPlayer](https://www.roblox.com/users/1370692210/profile) |
+| Roblox Developer Forum | [El_ExpertPlayer](https://devforum.roblox.com/u/El_ExpertPlayer) |
