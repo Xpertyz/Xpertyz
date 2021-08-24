@@ -3,7 +3,7 @@ i started my carrer on Roblox, i know to program in Lua, C#, C++, JavaScript, HT
 - 🌱 I’m currently learning more of HTML
 - 💞️ I’m looking to collaborate on Games, Aplications, Web Aplications and others.
 
-# Contact
+# Contacts
 
 | Platform | UserName |
 | --- | --- |
